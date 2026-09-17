@@ -10,8 +10,12 @@
 
 </div>
 
+<div align="center">
+
 ### Unit
 <img width="583" height="105" alt="Required team of six level 50 units" src="png/image.png" />
+
+<hr>
 
 <p>
   <img width="140" alt="Unit 1" src="png/Unit1.png" />
@@ -24,18 +28,20 @@
 
 ### Macros
 
-- Coral Kingdom - Tidal Siege
-- Crimson Shore
-- East Town
-- Fairy King Forest
-- Flower Forest
-- Kings Tomb
-- Rose Kingdom
-- School Grounds
-- Snowy Castle ACT 1
-- Snowy Castle ACT 2
-- Snowy Castle ACT 3
-- Spirit City ACT 1
-- Spirit City ACT 2
-- Spirit City ACT 3
-- Summer Portal
+Coral Kingdom - Tidal Siege<br>
+Crimson Shore<br>
+East Town<br>
+Fairy King Forest<br>
+Flower Forest<br>
+Kings Tomb<br>
+Rose Kingdom<br>
+School Grounds<br>
+Snowy Castle ACT 1<br>
+Snowy Castle ACT 2<br>
+Snowy Castle ACT 3<br>
+Spirit City ACT 1<br>
+Spirit City ACT 2<br>
+Spirit City ACT 3<br>
+Summer Portal
+
+</div>
