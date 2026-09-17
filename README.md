@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="noFilter.png" alt="Anime Expeditions" width="400">
+  <img src="png/noFilter.png" alt="Anime Expeditions" width="400">
 </div>
 
 <div align="center">
@@ -11,7 +11,16 @@
 </div>
 
 ### Unit
-<img width="583" height="105" alt="image" src="https://github.com/user-attachments/assets/320a2924-8a07-4437-b7cd-6ebfcc060efa" />
+<img width="583" height="105" alt="Required team of six level 50 units" src="png/image.png" />
+
+<p>
+  <img width="140" alt="Unit 1" src="png/Unit1.png" />
+  <img width="140" alt="Unit 2" src="png/Unit2.png" />
+  <img width="140" alt="Unit 3" src="png/Unit3.png" />
+  <img width="140" alt="Unit 4" src="png/Unit4.png" />
+  <img width="140" alt="Unit 5" src="png/Unit5.png" />
+  <img width="140" alt="Unit 6" src="png/Unit6.png" />
+</p>
 
 ### Macros
 
